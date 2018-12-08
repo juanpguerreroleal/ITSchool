@@ -5,6 +5,6 @@ Plataforma de aprendizaje tipo e-learning que busca facilitar el aprendizaje de 
 ## Pantalla principal
 ![Alt text](images/img1.png)
 ## Menu principal
-![Alt text](Images/img2.png)
+![Alt text](images/img2.png)
 ## Ejemplo de una actividad
-![Alt text](Images/img3.png)
+![Alt text](images/img3.png)
